@@ -1,0 +1,3 @@
+boolean find(int p, int q) {
+    return root(p) == root(q);
+}

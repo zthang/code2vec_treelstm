@@ -1,0 +1,4 @@
+private static int nextInt() throws IOException {
+    st.nextToken();
+    return (int) st.nval;
+}

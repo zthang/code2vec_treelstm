@@ -1,0 +1,6 @@
+/**
+ * **************************************DEBUG**********************************************************
+ */
+public static void debug(Object... o) {
+    System.out.println(Arrays.deepToString(o));
+}

@@ -1,0 +1,3 @@
+public int getCount() {
+    return this.count;
+}

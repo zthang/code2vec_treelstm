@@ -1,0 +1,10 @@
+private int read() throws IOException {
+    if (curChar >= numChars) {
+        curChar = 0;
+        numChars = stream.read(buf);
+        if (numChars <= 0) {
+            return -1;
+        }
+    }
+    return buf[curChar++];
+}

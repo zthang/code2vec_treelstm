@@ -1,0 +1,3 @@
+String next() {
+    return nextToken();
+}

@@ -1,0 +1,55 @@
+No results for predicting: exitNo results for predicting: nsOriginal: next|double, predicted 1st: next|double
+No results for predicting: skip		 predicted correctly at rank: 3
+Original: next|int, predicted 1st: next|int
+Original: to|string, predicted 1st: to|string
+Original: next|int, predicted 1st: next|int
+No results for predicting: nlNo results for predicting: scan|longNo results for predicting: hash|codeNo results for predicting: coutNo results for predicting: print|lineNo results for predicting: upp		 predicted correctly at rank: 4
+No results for predicting: skip|blankNo results for predicting: trNo results for predicting: size|of|setNo results for predicting: readyNo results for predicting: closeNo results for predicting: get|edge|weightNo results for predicting: add|childNo results for predicting: find|setNo results for predicting: costOriginal: is|space|char, predicted 1st: is|space|char
+No results for predicting: swapNo results for predicting: add|lastNo results for predicting: printlnNo results for predicting: read|intOriginal: next, predicted 1st: next
+No results for predicting: findOriginal: next|line, predicted 1st: next|line
+Original: next|double, predicted 1st: next|double
+Original: next, predicted 1st: next
+Original: next|long, predicted 1st: next|long
+Original: next|int, predicted 1st: next|int
+Original: next, predicted 1st: next
+No results for predicting: add|edgeNo results for predicting: findOriginal: next|double, predicted 1st: next|double
+Original: next|int, predicted 1st: next|int
+No results for predicting: nlNo results for predicting: update		 predicted correctly at rank: 10
+		 predicted correctly at rank: 3
+		 predicted correctly at rank: 2
+		 predicted correctly at rank: 2
+No results for predicting: rootNo results for predicting: get|int|array		 predicted correctly at rank: 4
+No results for predicting: gcdNo results for predicting: sameNo results for predicting: findNo results for predicting: eatNo results for predicting: reverseNo results for predicting: readNo results for predicting: remove|atNo results for predicting: cnt|bit|one		 predicted correctly at rank: 6
+No results for predicting: rangeNo results for predicting: has|nextNo results for predicting: pow		 predicted correctly at rank: 10
+No results for predicting: encNo results for predicting: mod|powNo results for predicting: sameNo results for predicting: next|sum|int|arrayNo results for predicting: bufferNo results for predicting: is|emptyNo results for predicting: negOriginal: run, predicted 1st: run
+No results for predicting: read|lineOriginal: next|int, predicted 1st: next|int
+No results for predicting: read|byteNo results for predicting: binary|exponentiationNo results for predicting: node|count		 predicted correctly at rank: 3
+		 predicted correctly at rank: 2
+Original: next|int, predicted 1st: next|int
+Original: add|edge, predicted 1st: add|edge
+Original: next|long, predicted 1st: next|long
+		 predicted correctly at rank: 3
+No results for predicting: equals		 predicted correctly at rank: 3
+		 predicted correctly at rank: 2
+No results for predicting: findNo results for predicting: next|long|array|indexNo results for predicting: initNo results for predicting: pa		 predicted correctly at rank: 6
+No results for predicting: nbNo results for predicting: rootNo results for predicting: distOriginal: next|line, predicted 1st: next|line
+		 predicted correctly at rank: 5
+		 predicted correctly at rank: 2
+No results for predicting: read|longNo results for predicting: findOriginal: next, predicted 1st: next
+No results for predicting: hash|codeNo results for predicting: setNo results for predicting: paOriginal: next|long, predicted 1st: next|long
+No results for predicting: prime|factorsNo results for predicting: printNo results for predicting: dfsNo results for predicting: dfsNo results for predicting: unionNo results for predicting: max|longNo results for predicting: next|weighted|graphOriginal: dfs, predicted 1st: dfs
+		 predicted correctly at rank: 6
+No results for predicting: upper|boundNo results for predicting: get|int|arrayNo results for predicting: dfsNo results for predicting: dfsNo results for predicting: bfs|colorNo results for predicting: checkOriginal: solve, predicted 1st: solve
+No results for predicting: fillNo results for predicting: dp		 predicted correctly at rank: 8
+No results for predicting: set|rootNo results for predicting: upper|boundNo results for predicting: queryOriginal: solve, predicted 1st: solve
+No results for predicting: dfsNo results for predicting: fill|movesNo results for predicting: searchOriginal: solve, predicted 1st: solve
+Original: solve, predicted 1st: solve
+No results for predicting: solveOriginal: solve, predicted 1st: solve
+No results for predicting: workNo results for predicting: goNo results for predicting: runNo results for predicting: runNo results for predicting: fdfsOriginal: solve, predicted 1st: solve
+No results for predicting: fdfsOriginal: solve, predicted 1st: solve
+		 predicted correctly at rank: 3
+Original: solve, predicted 1st: solve
+Original: solve, predicted 1st: solve
+Original: solve, predicted 1st: solve
+[0.22758621 0.26206897 0.30344828 0.31724138 0.32413793 0.34482759
+ 0.34482759 0.35172414 0.35172414 0.36551724]

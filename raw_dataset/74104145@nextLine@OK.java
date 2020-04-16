@@ -1,0 +1,3 @@
+String nextLine() {
+    return line;
+}

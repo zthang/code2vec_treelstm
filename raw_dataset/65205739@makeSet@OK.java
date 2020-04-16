@@ -1,0 +1,5 @@
+void makeSet() {
+    for (int i = 0; i < n; i++) {
+        parent[i] = i;
+    }
+}

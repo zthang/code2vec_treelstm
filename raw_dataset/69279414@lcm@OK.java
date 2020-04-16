@@ -1,0 +1,3 @@
+long lcm(long x, long y) {
+    return (x * y) / gcd(x, y);
+}

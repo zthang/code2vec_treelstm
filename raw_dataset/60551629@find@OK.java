@@ -1,0 +1,6 @@
+public int find(int x) {
+    if (par[x] < 0)
+        return x;
+    else
+        return par[x] = find(par[x]);
+}
